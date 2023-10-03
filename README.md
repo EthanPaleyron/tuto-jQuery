@@ -1,6 +1,6 @@
-# Name Project
+# Tuto jQuery
 
-## Use of [Vite](https://vitejs.dev/), [Sass](https://sass-lang.com/).
+## Use of [Vite](https://vitejs.dev/), [Sass](https://sass-lang.com/), [jQuery](https://jquery.com/download/).
 
 ## How to install the project.
 

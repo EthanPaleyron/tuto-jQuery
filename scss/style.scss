@@ -1,0 +1,21 @@
+.fondcouleur {
+  background-color: gray;
+}
+
+.active {
+  background: red;
+}
+
+select {
+  width: 5rem;
+  height: 7rem;
+}
+
+#click {
+  padding: 2rem 3rem;
+}
+
+#content {
+  display: flex;
+  flex-direction: column-reverse;
+}
