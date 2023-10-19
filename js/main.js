@@ -81,9 +81,9 @@
 //   last = event.timeStamp;
 // });
 
-$("input").on("focus", function () {
-  $(this).next().fadeTo(5000, 0);
-});
+// $("input").on("focus", function () {
+//   $(this).next().fadeTo(5000, 0);
+// });
 
 // UI
 // ---------------------------------------------------------------------
